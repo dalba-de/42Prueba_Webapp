@@ -12,3 +12,11 @@ Adicionalmente he montado un docker-compose que levanta tanto el frontend como e
 - Manejo de javascript, typescript, nodejs y angular.
 - Manejo de docker y docker compose
 - Manejo de bases de datos SQL
+
+## Prerrequisitos
+- Docker y docker-compose
+- Nodejs
+
+## Uso
+- docker-compose up --build
+- visita http://localhost:4200
